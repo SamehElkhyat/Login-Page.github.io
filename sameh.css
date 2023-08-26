@@ -1,0 +1,64 @@
+#geras{
+    color: white;
+}
+.section{
+    position: relative;
+    
+    
+    }
+    .section h1 {
+
+        color: #000000;
+    }
+    .form-control{
+        background-color: #24353f;
+        border: 5px solid white;
+    }
+    .container{
+        background: #24353f;
+        font-size: 20px;
+        
+    
+    
+        position: relative;
+
+    top: 50px;
+    box-shadow: 5px 2px 54px 5px rgb(0 0 0);
+    }
+    .gear{
+    
+        position: relative;
+        top:70px;
+    }
+    
+    
+    body{
+        background: #24353f;
+    
+        background-position: center;
+        background-repeat: no-repeat;
+      
+        background-size: auto;
+     
+    
+        font-size: 20px;
+        font-weight: 300;
+    
+        font-style: initial;
+        
+    }
+
+    .form-control {
+        display: block;
+        width: 100%;
+        height: calc(2.25rem + 2px);
+        padding: .375rem .75rem;
+        font-size: 1rem;
+        line-height: 1.5;
+        color:white;
+        background-color: #24353f;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        border-radius: .25rem;
+        transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+      }
